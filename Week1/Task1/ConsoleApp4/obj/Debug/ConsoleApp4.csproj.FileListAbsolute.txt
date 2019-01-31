@@ -5,3 +5,10 @@ c:\users\asus\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojA
 c:\users\asus\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
 c:\users\asus\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
 c:\users\asus\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\asus\Documents\PP2\Week1\Task1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\asus\Documents\PP2\Week1\Task1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\asus\Documents\PP2\Week1\Task1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\asus\Documents\PP2\Week1\Task1\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\asus\Documents\PP2\Week1\Task1\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\PP2\Week1\Task1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\asus\Documents\PP2\Week1\Task1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
