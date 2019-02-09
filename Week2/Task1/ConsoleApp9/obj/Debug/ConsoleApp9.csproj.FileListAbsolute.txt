@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\asus\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\asus\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\asus\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\asus\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+C:\Users\asus\Documents\PP2\Week2\Task1\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\asus\Documents\PP2\Week2\Task1\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\asus\Documents\PP2\Week2\Task1\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\asus\Documents\PP2\Week2\Task1\ConsoleApp9\obj\Debug\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\asus\Documents\PP2\Week2\Task1\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\PP2\Week2\Task1\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\asus\Documents\PP2\Week2\Task1\ConsoleApp9\obj\Debug\ConsoleApp9.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb

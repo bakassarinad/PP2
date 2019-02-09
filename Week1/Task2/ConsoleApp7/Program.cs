@@ -8,16 +8,14 @@ namespace ConsoleApp7
 {
     class Student
     {
-        int id;
+        string id;
         string name;
-        int year;
+        int year = 1;
 
-        public Student(int id, string name)
+        public Student(string id, string name)
         {
             this.name = name;
             this.id = id;
-            this.year = DateTime.Now.Year;
-
         }
         public void GetData()
         {
@@ -33,7 +31,7 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
-            Student s = new Student(1360090, "Gena");
+            Student s = new Student("18BD12345", "Gulim");
             s.GetData();
             s.IncreamentYear();
             s.GetData();
