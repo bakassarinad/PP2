@@ -11,19 +11,20 @@ namespace ConsoleApp6
         static void Main(string[] args)
         {
             
-                int howmany = Convert.ToInt32(Console.ReadLine());
+                int howmany = Convert.ToInt32(Console.ReadLine()); // вводим количество строк из звездочек
+            string[,] arr = new string[howmany, howmany]; // объявляем двойной массив
 
-                for (int i = 1; i <= howmany; ++i)
+                for (int i = 0; i < howmany; ++i) // фориком пробегаемся по строке
                 {
-                    for (int j = 1; j <= i; j++)
+                    for (int j = 0; j <= i; j++) // фориком пробегаемся по столбцу
                     {
-                        Console.Write("[*]");
 
-
-                    }
-                    Console.WriteLine();
+                      arr[i, j] = "[*]"; // записываем символы
+                    Console.Write(arr[i, j]); // выводим в консоль символы
+                     }
+                    Console.WriteLine(); // переходим на новую строку
                 }
-                Console.ReadKey();
+                Console.ReadKey(); // консоль не закрывается 
             
         }
     }
