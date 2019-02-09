@@ -5,3 +5,10 @@ C:\Users\asus\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csprojA
 C:\Users\asus\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
 C:\Users\asus\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+C:\Users\asus\Documents\PP2\Week1\Task3\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\asus\Documents\PP2\Week1\Task3\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\asus\Documents\PP2\Week1\Task3\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\asus\Documents\PP2\Week1\Task3\ConsoleApp8\obj\Debug\ConsoleApp8.csprojAssemblyReference.cache
+C:\Users\asus\Documents\PP2\Week1\Task3\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\PP2\Week1\Task3\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\asus\Documents\PP2\Week1\Task3\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
