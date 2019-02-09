@@ -12,10 +12,11 @@ namespace ConsoleApp7
         string name;
         int year = 1;
 
-        public Student(string id, string name)
+        public Student(string id, string name) // параметры 
         {
             this.name = name;
-            this.id = id;
+            this.id = id; 
+            //конструкторы
         }
         public void GetData()
         {
@@ -24,14 +25,14 @@ namespace ConsoleApp7
         public void IncreamentYear()
         {
             year++;
-        }
+        } // 2 метода
     }
 
     class Program
     {
         static void Main(string[] args)
         {
-            Student s = new Student("18BD12345", "Gulim");
+            Student s = new Student("18BD12345", "Radmiiiir");
             s.GetData();
             s.IncreamentYear();
             s.GetData();
