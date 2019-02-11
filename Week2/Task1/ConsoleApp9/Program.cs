@@ -8,7 +8,23 @@ using System.IO;
 namespace ConsoleApp9
 {
     class Program
+
     {
+        static bool CheckPalindrome(string inputString)
+        {
+
+            int length = inputString.Length;
+            for (int i = 0; i < length / 2; i++)
+            {
+                if (inputString[i] != inputString[length - 1 - i])
+                {
+                    return false;
+                }
+            }
+
+            return true;
+
+        }
         static void Main(string[] args)
         {
             FileStream fs = new FileStream(@"C:\D\1.txt", FileMode.Open, FileAccess.Read);
@@ -16,11 +32,8 @@ namespace ConsoleApp9
             string str = sr.ReadLine();
             sr.Close();
             fs.Close();
-            char[] str2 = str.ToCharArray();
-           
-            Array.Reverse(str2);
-            string str3 = new string(str2);
-            if (str == str3)
+            
+            if (CheckPalindrome(str))
             {
                 Console.WriteLine("Yes");
             }

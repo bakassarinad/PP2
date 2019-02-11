@@ -11,10 +11,18 @@ namespace ConsoleApp11
     {
         static bool IsPrime(int x)
         {
-            for (int i = 2; i < x; i++)
-                if (x % i == 0)                
-                    return false;
-            return true;
+            bool IsPrime = true;
+            if (x != 1)
+            {
+
+                for (int i = 2; i < x; i++)
+                    if (x % i == 0)
+                    {
+                        IsPrime = false;
+                    }
+            }
+             else IsPrime = false;
+            return IsPrime;
                 
        
         }
