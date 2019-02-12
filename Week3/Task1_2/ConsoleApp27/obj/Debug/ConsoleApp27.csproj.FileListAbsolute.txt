@@ -5,3 +5,10 @@ C:\Users\asus\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.cspr
 C:\Users\asus\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe
 C:\Users\asus\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.pdb
+C:\Users\asus\Documents\PP2\Week3\Task1_2\ConsoleApp27\obj\Debug\ConsoleApp27.csprojAssemblyReference.cache
+C:\Users\asus\Documents\PP2\Week3\Task1_2\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\PP2\Week3\Task1_2\ConsoleApp27\obj\Debug\ConsoleApp27.exe
+C:\Users\asus\Documents\PP2\Week3\Task1_2\ConsoleApp27\obj\Debug\ConsoleApp27.pdb
+C:\Users\asus\Documents\PP2\Week3\Task1_2\ConsoleApp27\bin\Debug\ConsoleApp27.exe.config
+C:\Users\asus\Documents\PP2\Week3\Task1_2\ConsoleApp27\bin\Debug\ConsoleApp27.exe
+C:\Users\asus\Documents\PP2\Week3\Task1_2\ConsoleApp27\bin\Debug\ConsoleApp27.pdb

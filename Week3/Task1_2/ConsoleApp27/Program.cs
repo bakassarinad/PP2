@@ -15,11 +15,29 @@ namespace ConsoleApp27
             get;
             set;
         }
-
+        private int selectedItem;
         public int SelectedItem
         {
-            get;
-            set;
+            get
+            {
+                return selectedItem;
+            }
+            set
+            {
+                if (value >= Content.Length)
+                {
+                    selectedItem = 0;
+
+                }
+                else if (value<=0)
+                {
+                    selectedItem = Content.Length - 1;
+                }
+                else
+                {
+                    selectedItem = value;
+                }
+            }
         }
 
         public void Draw()
@@ -37,7 +55,15 @@ namespace ConsoleApp27
                 {
                     Console.BackgroundColor = ConsoleColor.Black;
                 }
-                Console.WriteLine(Content[i].Name);
+                if (Content[i].GetType() == typeof(DirectoryInfo))
+                {
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                }
+                Console.WriteLine(i + 1 + ". " + Content[i].Name);
             }
         }
     }
@@ -81,7 +107,7 @@ namespace ConsoleApp27
                         if (fileSystemInfo3.GetType() == typeof(DirectoryInfo))
                         {
                             DirectoryInfo directoryInfo = fileSystemInfo3 as DirectoryInfo;
-                            Directory.Move(fileSystemInfo3.FullName, directoryInfo.Parent + "/" + name);
+                            Directory.Move(fileSystemInfo3.FullName, Directory.GetParent(directoryInfo.FullName) + "/" + name);
                             history.Peek().Content = directoryInfo.Parent.GetFileSystemInfos();
                         }
                         else
