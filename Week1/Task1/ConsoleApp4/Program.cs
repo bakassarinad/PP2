@@ -45,9 +45,7 @@ namespace ConsoleApp4
                     answer = answer  + a[i].ToString()+" "; // формирование строки входных параметров
                 }
             }
-            Console.WriteLine(counter.ToString()); // вывод в консоль
-            Console.WriteLine(answer.Trim()); // убирает краевые пробелы 
-            Console.ReadKey(); // консоль
+              
         }
     }
 }

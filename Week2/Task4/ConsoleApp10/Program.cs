@@ -11,13 +11,13 @@ namespace ConsoleApp10
     {
         static void Main(string[] args)
         {
-            FileStream fs = new FileStream(@"path/2.txt", FileMode.Create, FileAccess.Write);
-            StreamWriter sw = new StreamWriter(fs);
-            sw.WriteLine("adada");
-            sw.Close();
-            fs.Close();            
-            File.Copy(@"path/2.txt", @"path1/2.txt");
-            File.Delete(@"path/2.txt");
+            FileStream fs = new FileStream(@"path/2.txt", FileMode.Create, FileAccess.Write); // запыскаем файлстрим для создания файла и возможноти писать в файле
+            StreamWriter sw = new StreamWriter(fs); //  запись в самом файле
+            sw.WriteLine("adada"); // операция проводится 
+            sw.Close(); // закрытие стримрайтера
+            fs.Close();            // закрыие файлстрима
+            File.Copy(@"path/2.txt", @"path1/2.txt"); // копирование файла
+            File.Delete(@"path/2.txt"); // удаление файла из предыдущей папки
             Console.ReadKey();
         }
     }

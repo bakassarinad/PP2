@@ -14,9 +14,9 @@ namespace ConsoleApp7
 
         public Student(string id, string name) // параметры 
         {
-            this.name = name;
+            this.name = name; // this - ссылка на текущий экземпляр
             this.id = id; 
-            //конструкторы
+            //конструкторы - выполняют инициализацию объекта
         }
         public void GetData()
         {
@@ -32,10 +32,10 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
-            Student s = new Student("18BD12345", "Radmiiiir");
-            s.GetData();
-            s.IncreamentYear();
-            s.GetData();
+            Student s = new Student("18BD12345", "Radmiiiir");// создание объекта, используя новую операция класс, создает память для объекта
+            s.GetData(); // вывод данных с year = 1;
+            s.IncreamentYear(); // увелчиваем year на 1, используя метод
+            s.GetData(); // вывод данных с year = 1 +1;
             Console.ReadKey();
         }
     }

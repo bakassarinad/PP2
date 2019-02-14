@@ -5,3 +5,10 @@ C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.cspr
 C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
 C:\Users\asus\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
+C:\Users\asus\Documents\PP2\Week2\Task3\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\asus\Documents\PP2\Week2\Task3\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\asus\Documents\PP2\Week2\Task3\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\asus\Documents\PP2\Week2\Task3\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\asus\Documents\PP2\Week2\Task3\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\PP2\Week2\Task3\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\asus\Documents\PP2\Week2\Task3\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
