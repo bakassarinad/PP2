@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.IO;
 
 namespace ConsoleApp12
 {
@@ -14,7 +14,7 @@ namespace ConsoleApp12
 
             Stack<string> dirs = new Stack<string>(20); // создание стэка из стрингов размером 20
 
-            if (!System.IO.Directory.Exists(root)) // дайрекктори позволяет работать с каталогами exists определяет существует ли каталог данного пути
+            if (!Directory.Exists(root)) // дайрекктори позволяет работать с каталогами exists определяет существует ли каталог данного пути
             { 
                 throw new ArgumentException(); //генерируется, если в метод для параметра передается некорректное значение
             }
@@ -32,20 +32,20 @@ namespace ConsoleApp12
                     space = space + "     "; //отступы
                 }
 
-                System.IO.DirectoryInfo dirinfo = new System.IO.DirectoryInfo(currentDir); //Данный класс предоставляет функциональность для создания, удаления, перемещения и других операций с каталогами.
+                DirectoryInfo dirinfo = new DirectoryInfo(currentDir); //Данный класс предоставляет функциональность для создания, удаления, перемещения и других операций с каталогами.
                 Console.WriteLine(space + dirinfo.Name); // печать данного каталога
                 {
-                    subDirs = System.IO.Directory.GetDirectories(currentDir); // возвращает имена подкатологов
+                    subDirs = Directory.GetDirectories(currentDir); // возвращает имена подкатологов
                 }
                 string[] files = null; //стринг файлов пустой
 
                 {
-                    files = System.IO.Directory.GetFiles(currentDir);  // файлс заполняет данной директорией
+                    files = Directory.GetFiles(currentDir);  // файлс заполняет данной директорией
                 }
                 foreach (string file in files) // цикл для каждого файла (элемента)
                 {
                     {
-                        System.IO.FileInfo fi = new System.IO.FileInfo(file); // предоставляет информарцию о файле 
+                        FileInfo fi = new FileInfo(file); // предоставляет информарцию о файле 
                         Console.WriteLine(space + "     " + fi.Name);
                     }
 
