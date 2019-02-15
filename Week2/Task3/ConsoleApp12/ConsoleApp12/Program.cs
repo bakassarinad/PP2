@@ -34,21 +34,15 @@ namespace ConsoleApp12
 
                 DirectoryInfo dirinfo = new DirectoryInfo(currentDir); //Данный класс предоставляет функциональность для создания, удаления, перемещения и других операций с каталогами.
                 Console.WriteLine(space + dirinfo.Name); // печать данного каталога
-                {
-                    subDirs = Directory.GetDirectories(currentDir); // возвращает имена подкатологов
-                }
+                
+                subDirs = Directory.GetDirectories(currentDir); // возвращает имена подкатологов
                 string[] files = null; //стринг файлов пустой
-
-                {
-                    files = Directory.GetFiles(currentDir);  // файлс заполняет данной директорией
-                }
+                files = Directory.GetFiles(currentDir);  // файлс заполняет данной директорией
+                
                 foreach (string file in files) // цикл для каждого файла (элемента)
                 {
-                    {
                         FileInfo fi = new FileInfo(file); // предоставляет информарцию о файле 
                         Console.WriteLine(space + "     " + fi.Name);
-                    }
-
                 }
 
                 foreach (string str in subDirs) // для каждого стринга  в субдиректори
