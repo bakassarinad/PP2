@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\asus\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\asus\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\asus\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\asus\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfMark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mark>
+    <point>64</point>
+  </Mark>
+  <Mark>
+    <point>36</point>
+  </Mark>
+  <Mark>
+    <point>91</point>
+  </Mark>
+  <Mark>
+    <point>94</point>
+  </Mark>
+  <Mark>
+    <point>94</point>
+  </Mark>
+  <Mark>
+    <point>27</point>
+  </Mark>
+  <Mark>
+    <point>26</point>
+  </Mark>
+  <Mark>
+    <point>70</point>
+  </Mark>
+  <Mark>
+    <point>79</point>
+  </Mark>
+  <Mark>
+    <point>62</point>
+  </Mark>
+</ArrayOfMark>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp7
 {
-    class Student
+    class Student // описаниемобъекта можно назвать классом, то есть шаблон
     {
         string id;
         string name;
